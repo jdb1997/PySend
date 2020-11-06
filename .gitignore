@@ -1,6 +1,7 @@
 /receiver_dir
 /test_dir
 /venv
+.idea
 clean_recv_dir.py
 network_conversation.pdf
 
