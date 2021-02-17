@@ -1,4 +1,4 @@
-**Weclome** to PySend!
+# **Welcome** to PySend!
 
 ## What is *PySend*?
 PySend is a simple application to send file(s) over a TCP connection!
